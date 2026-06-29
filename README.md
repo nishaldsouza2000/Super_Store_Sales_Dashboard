@@ -77,7 +77,7 @@ This Power BI project analyzes Super Store sales data to uncover key business in
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE] file for details.
 
 ## Contact
 
