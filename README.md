@@ -75,4 +75,15 @@ This Power BI project analyzes Super Store sales data to uncover key business in
 - KPI Reporting
 - Data Modeling
 
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+
+For more details or collaboration:
+
+* **Name**: Nishal D'Souza
+* **Email**: [nishaldsouza2000@gmail.com](mailto:nishaldsouza2000@gmail.com)
+* **LinkedIn**: [nishaldsouza](https://linkedin.com/in/nishaldsouza16)
 
